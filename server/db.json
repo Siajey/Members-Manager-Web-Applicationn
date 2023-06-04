@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "fullname": "unknown user",
+      "photo": "https://img.freepik.com/premium-photo/hacker-wearing-black-hoodie-with-blue-neon-lights-background-broke-security-systemthe-dangers-digital-thievesunknown-person-with-copy-space_158001-2274.jpg",
+      "mobile": 987654321,
+      "email": "unKNOWN@gmail.com",
+      "job": "freaker",
+      "group": "5",
+      "id": 2
+    },
+    {
+      "fullname": "siavash jey",
+      "photo": "https://i.postimg.cc/tCt2fvLw/photo-2023-01-12-06-34-02.jpg",
+      "mobile": 12345677890,
+      "email": "siavashmjyjs@gmail.com",
+      "job": "front-end-dev",
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "this user",
+      "photo": "https://img.freepik.com/premium-photo/hacker-wearing-black-hoodie-with-blue-neon-lights-background-broke-security-systemthe-dangers-digital-thievesunknown-person-with-copy-space_158001-2274.jpg",
+      "mobile": 23232323,
+      "email": "heyNow@gmail.com",
+      "job": "hacker",
+      "group": "2",
+      "id": 3
+    },
+    {
+      "fullname": "WhoEver",
+      "photo": "https://img.freepik.com/premium-photo/hacker-wearing-black-hoodie-with-blue-neon-lights-background-broke-security-systemthe-dangers-digital-thievesunknown-person-with-copy-space_158001-2274.jpg",
+      "mobile": 1212121212,
+      "email": "hello@gmail.com",
+      "job": "back-end dev",
+      "group": "4",
+      "id": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "coworker"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "family"
+    },
+    {
+      "id": "4",
+      "name": "services"
+    },
+    {
+      "id": "5",
+      "name": "homie"
+    }
+  ]
+}
+
+
